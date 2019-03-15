@@ -1,6 +1,9 @@
 # Community
 How we organize and connect.
 
+## Join this community
+
+- First [join LibreFoodPantry@googlegroups.com](https://groups.google.com/forum/#!forum/LibreFoodPantry/join)
 
 ## Coordinating Committee
 
