@@ -1,0 +1,74 @@
+= LFP Shop Manager Guide
+
+== What is an LFP Shop?
+
+A group of developers that work on one or more LibreFoodPantry projects. They
+often work on a project intensely for a relatively short period of time:
+typically 3-12 months.
+
+== Who is an LFP Shop Manger?
+
+An accountable, representative of the shop who coordinates the efforts of
+the shop.
+
+== Starting an LFP Shop
+
+1. Contact the LFP Coordinating Committee and express your interest.
+2. Gather a group of developers who agree to uphold the LibreFoodPantry
+code of conduct and mission, and are interested in working on one or more
+LibreFoodPantry projects.
+
+=== Commitment
+
+* Agree to uphold the LibreFoodPantry code of conduct and mission.
+* Join communication channels
+* Join the Coordinating Committee
+* Attend and participate at Coordinating Committee Meetings
+
+=== Benefits
+
+* Elevated permissions over LibreFoodPantry resources (e.g., projects, services, etc.)
+* Voting member of the Coordinating Committee
+
+== Workflow Overview
+
+=== Principles and Goals
+
+* Embrace agile principles
+
+=== People
+
+* Shop Manager
+* Coordinating Committee Member
+* Shop Member
+
+=== Tools
+
+* GitHub
+  * Project boards
+  * Issues
+  * Labels
+* Travis CI
+  * Unit tests
+  * Style checkers
+* Slack
+  * Project channels
+  * Notification channels
+  * "Standup" channels
+* Email lists
+  * LibreFoodPantry@googlegroups.com
+  * LibreFoodPantry-CoordinatingCommitte@googlegroups.com
+
+=== Structure
+
+* Upstream: LibreFoodPantry/<project>
+* Fork: <shop>/<project>
+* Local copies
+* Branches
+
+=== Methods
+
+* Scrum
+* Kanban
+* Scrumban
+* Other agile process
