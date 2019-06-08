@@ -21,5 +21,5 @@ To ensure a healthy and safe environment in which to collaborate and learn, and 
 
 ## Coordinating Committee
 
-- The Coordinating Committee meets most Friday's at 10 AM ET.
+- The Coordinating Committee meets most Fridays at 10 AM ET.
 - [View minutes](https://docs.google.com/document/d/1gpGWGhg9zVT4OAfoed0cuiybHz6v0wlWSiO7sfQRRIQ/edit?usp=sharing)
