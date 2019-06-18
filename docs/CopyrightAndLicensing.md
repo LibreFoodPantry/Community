@@ -37,7 +37,7 @@ in comments the following statement:
 Applying FDLv1.3 to content and documentation
 ---------------------------------------------
 
-Each project shall keep a single LICENSE-FOR-CONTENT file in its root
+Each project shall keep a single LICENSE_FOR_CONTENT file in its root
 that contains the full text of the GFDLv1.3.
 
 Each project shall place and maintain a single AUTHORS file in its root
