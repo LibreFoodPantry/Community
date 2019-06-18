@@ -56,6 +56,21 @@ the following statement:
     <https://www.gnu.org/licenses/fdl-1.3.txt>.
 
 
+Generating AUTHORS from `git log`
+---------------------------------
+
+We have provided a Python3 script `bin/generate-authors.py` that may be used
+to generate the AUTHORS file from `git log`. Run it from the root of the
+project as follows.
+
+    $ bin/generate-authors.py
+
+If you are satisfied by its output, run it again and redirect its output
+to AUTHORS.
+
+    $ bin/generate-authors.py > AUTHORS
+
+
 ---
 Copyright (c) 2019 The LibreFoodPantry Developers.
 Permission is granted to copy, distribute and/or modify this document
