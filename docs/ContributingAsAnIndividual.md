@@ -2,8 +2,16 @@ Contributing as an Individual
 =============================
 
 
-Issues
-------
+Using the Issue Tracker
+-----------------------
+
+* If there isn't an issue for the work you want to do, create one. This could be a pull-request or a plain issue.
+* If an issue hasn't been discussed and has not been prioritized (check the labels, or the project boards) by a project maintainer, start that discussion. This has several goals: 1) ensure that the project maintainer is interested in this work being done, 2) clarifying the requirements of the work to be done, 3) establish an acceptable solution strategy, and 4) convey to others that you are interested in working on the issue.  Working on something without doing this step may lead to a waste in effort. You may work on something the maintainers are not interested in. You may miss-understand (or incompletely understand) the issue and solve the wrong problem.
+* If the issue is not claimed, claim it. You can do this in three ways; 1) if you are contributor on the project, you can assign the issue to yourself, 2) if you aren't a contributor on the project, you can leave a comment that says that you are claiming the issue, or 3) open a (draft) pull-request that claims that it closes the issue (using [GitHub's keywords](https://help.github.com/en/articles/closing-issues-using-keywords) in the pull-request). The latter is preferred as it also provides a place to observe and discuss implementation.
+* If an issue has been claimed (look for an assignment, a comment, or a linked pull-request), check if it is done (merged into master). If so, close it. If you can't close it, [prompt a maintainer](https://github.blog/2011-03-23-mention-somebody-they-re-notified/) to close it. If the work isn't done, and hasn't been worked on in a while, [ask the person](https://github.blog/2011-03-23-mention-somebody-they-re-notified/) who was working on it if they are still working on it. If they aren't, then you can claim it and start working on it. If so, maybe you can help them.
+* Push to your pull-request regularly. This let's others know that you are working on it. Others can also give you feedback as you go. Your pull request is a great place to get help if you get stuck.
+* If you give up, leave a comment on the issue explaining the problem and indicating that you are abandoning your effort. Be sure to unclaim it (e.g., leave a comment saying you give up, unassign it, and/or close your pull-request without merging it). That way someone else can claim it.
+
 
 * Post an issue if you find a problem or have an idea to propose.
 * Post issues to the project they are most related to. If you are unsure which is most related, post it to the LibreFoodPantry/Community issue tracker.
