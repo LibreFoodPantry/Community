@@ -44,7 +44,8 @@ Developer Certificate of Origin
 Before a contribution may be accepted by LibreFoodPantry, to ensure that each
 contribution is compatible with this project's open source license, its
 contributors must sign-off on the following statement about their contribution
-(also found in DCO in the root directory of this project).
+(also found in DCO in the root directory of this project or online at
+  <https://developercertificate.org/>).
 
     Developer Certificate of Origin
     Version 1.1
