@@ -36,3 +36,60 @@ Contributing Code
 * Mark pull-requests as "ready for review" (i.e., not a draft) and ask for a review by mentioning users on your pull-requests
     * See [Changing the status of a pull-request](https://help.github.com/en/articles/changing-the-stage-of-a-pull-request)
 * Provide feedback on others work by commenting on pull-requests and/or commits on pull-requests.
+
+
+Developer Certificate of Origin
+-------------------------------
+
+Before a contribution may be accepted by LibreFoodPantry, to ensure that each
+contribution is compatible with this project's open source license, its
+contributors must sign-off on the following statement about their contribution
+(also found in DCO in the root directory of this project).
+
+    Developer Certificate of Origin
+    Version 1.1
+
+    Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+    1 Letterman Drive
+    Suite D4700
+    San Francisco, CA, 94129
+
+    Everyone is permitted to copy and distribute verbatim copies of this
+    license document, but changing it is not allowed.
+
+
+    Developer's Certificate of Origin 1.1
+
+    By making a contribution to this project, I certify that:
+
+    (a) The contribution was created in whole or in part by me and I
+        have the right to submit it under the open source license
+        indicated in the file; or
+
+    (b) The contribution is based upon previous work that, to the best
+        of my knowledge, is covered under an appropriate open source
+        license and I have the right under that license to submit that
+        work with modifications, whether created in whole or in part
+        by me, under the same open source license (unless I am
+        permitted to submit under a different license), as indicated
+        in the file; or
+
+    (c) The contribution was provided directly to me by some other
+        person who certified (a), (b) or (c) and I have not modified
+        it.
+
+    (d) I understand and agree that this project and the contribution
+        are public and that a record of the contribution (including all
+        personal information I submit with it, including my sign-off) is
+        maintained indefinitely and may be redistributed consistent with
+        this project or the open source license(s) involved.
+
+Contributors sign-off on this statement by adding a `Signed-off-by` line in
+the commit message for each (co)author on the commit:
+e.g., `Signed-off-by: Armadillo Aardvark <Armadillo.Aardvark@earth.com>`.
+This is conveniently done if the commit is by a single author by using
+the `-s` option to `git commit`: e.g., `git commit -s`.
+If you need to add `Co-authored-by` lines,
+manually add a `Signed-off-by` line for each co-author. Note that the
+names and emails on the `Signed-off-by` lines must match the `Author`
+and `Co-authored-by` lines.
